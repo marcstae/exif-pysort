@@ -1,0 +1,13 @@
+# EXIF PySort Requirements
+# No external Python packages required - uses only standard library modules
+
+# However, this script requires exiftool to be installed on your system:
+# 
+# On Ubuntu/Debian:
+# sudo apt-get install exiftool
+#
+# On macOS with Homebrew:
+# brew install exiftool
+#
+# On Windows:
+# Download from https://exiftool.org/
